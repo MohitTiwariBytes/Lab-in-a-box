@@ -1,6 +1,5 @@
-Here’s the updated README with the additional text:
 
-```markdown
+
 # Lab in a Box - Hack Club YSWS
 
 Welcome to **Lab in a Box**! A fun and interactive event designed to help you **learn**, **build**, and **showcase your skills** through tech-related projects! This event spans over **1 to 2 months**, where participants work in teams to create exciting projects, earn points, and win prizes!
@@ -90,4 +89,3 @@ All contributions are welcome!
 Feel free to fork this repository, make your changes, and submit a **Pull Request (PR)**.  
 
 Whether it's fixing a bug, adding a feature, or improving the design, your contributions will be greatly appreciated! 🎉
-```
