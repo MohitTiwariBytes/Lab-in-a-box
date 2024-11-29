@@ -68,7 +68,7 @@ Follow these steps to run this project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone "https://github.com/MohitTiwariBytes/Lab-in-a-box.git"
    ```
 
 2. **Install dependencies**:
