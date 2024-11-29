@@ -2,6 +2,8 @@
 
 # Lab in a Box - Hack Club YSWS
 
+(**Lab in a Box** is not a official Hackclub YSWS yet, If you want to see this YSWS alive support it in #lab-in-a-box)
+
 Welcome to **Lab in a Box**! A fun and interactive event designed to help you **learn**, **build**, and **showcase your skills** through tech-related projects! This event spans over **1 to 2 months**, where participants work in teams to create exciting projects, earn points, and win prizes!
 
 ---
